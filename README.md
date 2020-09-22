@@ -7,4 +7,4 @@ CASE 1 - Pre-processing text feature with BOW (Bag of words)
 
 CASE 2 - Pre-processing text feature with TF-IDF
 
-Plotted all performance matrices like AUC scores, Confusion matrix.
+Encoding all the features and Plotted performance matrices like AUC scores, Confusion matrix.
